@@ -32,7 +32,7 @@ class readData(object):
                     # print('------------'+str(po))
                     list.append(po)
 
-            else:
+            elif r=='get':
                 logging.info(re[i]['url'] + '==get==' + re[i]['参数'])
                 params = re[i]['参数']
                 if params != '':
@@ -45,6 +45,14 @@ class readData(object):
                     po= ru.getRe(re[i]['url'], params)
                     #print('------------'+str(po))
                     list.append(po)
+            elif r=='put':
+                pass
+
+            elif r=='delete':
+                pass
+
+            else:
+                logging.info('excle 表格里面没有这几个请求类型，请重新在表格里设置请求类型！')
         return list
 
 
