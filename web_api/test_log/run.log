@@ -33,3 +33,346 @@
 2020-22-22 16:32:51 test_re.py[line:42] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
 2020-22-22 16:41:49 test_re.py[line:42] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
 2020-22-22 16:42:46 test_re.py[line:42] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:23:08 test_re.py[line:42] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:27:20 test_re.py[line:43] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:27:44 test_re.py[line:43] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:27:51 test_re.py[line:43] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:28:41 test_re.py[line:44] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:29:26 test_re.py[line:44] INFO post请求出错，出错原因:a Unicode decoding error occurred
+2020-22-22 18:33:05 test_re.py[line:44] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:41:25 test_re.py[line:44] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:41:48 test_re.py[line:44] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 18:44:04 test_re.py[line:44] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:32:30 test_re.py[line:58] INFO put 请求出错,出错原因: Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:38:44 test_re.py[line:46] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:39:04 test_re.py[line:58] INFO put 请求出错,出错原因: Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:40:01 test_re.py[line:58] INFO put 请求出错,出错原因: Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:40:21 test_re.py[line:58] INFO put 请求出错,出错原因: Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:40:38 test_re.py[line:58] INFO put 请求出错,出错原因: Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:41:22 test_re.py[line:60] INFO put 请求出错,出错原因: Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:49:25 test_re.py[line:31] INFO get 请求出错，出错原因: 'type' object is not iterable
+2020-22-22 19:50:24 test_re.py[line:31] INFO get 请求出错，出错原因: 'type' object is not iterable
+2020-22-22 19:52:29 test_re.py[line:31] INFO get 请求出错，出错原因: 'type' object is not iterable
+2020-22-22 19:52:37 test_re.py[line:31] INFO get 请求出错，出错原因: 'type' object is not iterable
+2020-22-22 19:53:12 test_re.py[line:129] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-22-22 19:54:00 test_re.py[line:31] INFO get 请求出错，出错原因: 'type' object is not iterable
+2020-22-22 19:55:00 test_re.py[line:31] INFO get 请求出错，出错原因: 'type' object is not iterable
+2020-22-22 19:55:48 test_re.py[line:46] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-28-28 22:01:25 test_01.py[line:21] INFO 数据解析正确[[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]]
+2020-28-28 22:03:58 test_01.py[line:18] INFO 数据解析正确[[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]]
+2020-28-28 22:06:32 test_01.py[line:18] INFO 数据解析正确[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:06:50 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:07:49 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:08:27 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:09:32 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:09:54 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:14:41 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:16:00 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:16:01 test_re.py[line:48] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-28-28 22:16:53 test_re.py[line:48] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-28-28 22:18:05 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:18:05 test_re.py[line:48] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-28-28 22:19:25 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:19:26 test_re.py[line:48] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-28-28 22:22:49 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:22:50 test_re.py[line:48] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-28-28 22:23:28 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'post', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'post', '预期结果': '1002'}]
+2020-28-28 22:23:28 test_re.py[line:48] INFO post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+2020-28-28 22:28:07 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:28:07 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini================={'city':"北京"}
+2020-28-28 22:28:07 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini=================
+2020-28-28 22:29:07 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:29:07 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:29:07 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:29:30 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:29:30 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:30:00 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:30:00 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:30:00 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:31:01 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:31:01 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:31:01 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:31:23 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:31:23 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:31:23 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:31:55 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:31:55 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:33:22 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:33:22 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:33:22 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:33:49 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:33:49 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:33:49 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:34:32 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:34:32 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:34:32 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:35:37 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:35:37 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:35:37 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:37:41 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:37:41 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:38:53 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:38:53 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:39:21 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:39:21 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:40:28 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:40:28 test_01.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:40:28 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:41:09 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:41:09 test_01.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:41:09 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:41:43 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:41:43 test_01.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:42:36 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:42:36 test_01.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:42:36 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:43:05 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:43:05 test_01.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:43:05 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:45:57 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:45:57 test_01.py[line:29] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:47:06 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:47:06 test_01.py[line:29] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:47:53 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:47:53 test_01.py[line:29] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:47:53 test_01.py[line:29] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:49:28 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:49:28 test_01.py[line:29] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:52:07 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:52:07 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 22:52:07 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 22:59:33 read_API.py[line:16] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 22:59:33 read_API.py[line:26] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:01:36 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:01:36 read_API.py[line:26] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:01:37 read_API.py[line:26] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 23:01:59 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:01:59 read_API.py[line:26] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:03:43 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:03:43 read_API.py[line:27] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:04:36 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:04:36 read_API.py[line:27] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:16:55 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:16:55 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:16:55 test_01.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-28-28 23:17:43 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:17:59 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:17:59 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:18:52 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:18:52 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:19:35 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:19:35 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:21:57 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:21:57 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:22:17 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:22:17 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:22:45 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:22:45 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:23:11 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:23:11 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-28-28 23:23:50 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-28-28 23:23:50 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:26:08 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:26:08 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:26:28 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:26:28 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:27:40 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:27:40 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:28:11 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:28:11 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:28:11 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:29:38 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:29:38 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:29:38 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:29:47 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:29:47 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:29:47 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:29:57 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:29:57 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:29:57 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:30:39 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:30:39 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:30:39 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:31:31 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:31:31 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:31:55 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:31:55 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:31:55 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:32:25 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:32:25 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:32:25 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:32:39 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:32:39 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:32:39 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:33:01 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:33:01 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:33:01 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:47:45 test_01.py[line:18] INFO 数据解析正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:47:45 test_01.py[line:29] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:48:11 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:48:11 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:48:27 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:48:27 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:48:27 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:48:43 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:48:43 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:49:56 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:49:56 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:49:56 read_API.py[line:28] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:50:14 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:50:14 read_API.py[line:27] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:50:14 read_API.py[line:27] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:57:41 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:57:41 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:57:41 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:58:24 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:58:24 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:58:24 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 08:59:35 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 08:59:35 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 08:59:35 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:00:00 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:00:00 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:00:00 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:00:38 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:00:38 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:00:39 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:01:32 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:01:32 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:01:32 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:03:56 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:03:56 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:03:56 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:04:15 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:04:15 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:04:16 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:04:45 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:04:45 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:04:45 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:05:10 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:05:10 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:05:10 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:06:16 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:06:16 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:06:16 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini?city=%E5%8C%97%E4%BA%AC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002373768DA88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:06:16 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:06:16 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002373768D308>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:07:01 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:07:01 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:07:01 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini?city=%E5%8C%97%E4%BA%AC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018BE3A3DA88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:07:01 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:07:01 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018BE3A3D848>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:07:19 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:07:19 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:07:19 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini?city=%E5%8C%97%E4%BA%AC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243BB74BFC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:07:19 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:07:19 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243BC484348>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:07:53 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:07:53 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:07:53 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini?city=%E5%8C%97%E4%BA%AC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201AB6CFA08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:07:53 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:07:53 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201AB6CF7C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:09:15 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:09:15 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:09:15 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini?city=%E5%8C%97%E4%BA%AC (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CD4782EB48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:09:15 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:09:15 test_re.py[line:33] INFO get 请求出错，出错原因: HTTPConnectionPool(host='wthrcdn.etouch.cn', port=80): Max retries exceeded with url: /weather_mini (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CD47846348>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-29-29 09:09:49 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:09:49 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:09:49 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:10:36 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:10:36 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:10:36 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:11:32 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:11:32 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:11:32 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:12:03 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:12:03 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:12:03 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:13:46 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:13:46 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:13:46 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:13:46 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:13:46 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:13:46 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:14:33 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:14:33 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:14:33 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:15:42 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:15:42 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:15:54 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:15:54 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:18:21 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:18:21 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:18:21 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:18:22 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:18:24 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:18:39 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:18:39 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:18:39 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:18:39 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:18:39 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:18:39 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:18:54 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:18:54 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:18:54 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:19:11 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:19:11 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:19:11 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:21:48 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:21:48 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:21:48 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:21:49 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:21:49 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:21:49 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:22:02 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:22:02 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:22:02 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:22:02 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:22:02 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:22:02 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:24:02 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:24:02 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:24:02 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:24:02 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:24:02 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:24:02 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:25:18 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:25:18 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:25:18 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:25:19 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:25:19 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:25:19 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:25:23 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:25:23 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:25:23 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:25:24 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:25:24 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:25:24 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:26:08 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:26:08 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:26:08 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:26:08 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:26:08 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:26:08 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:26:26 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:26:26 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:26:26 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:26:38 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:26:38 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:26:38 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:27:12 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:27:12 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:27:12 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:27:34 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:27:34 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:27:34 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 09:27:35 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 09:27:35 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 09:27:35 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 11:50:11 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 11:50:11 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 11:50:12 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
+2020-29-29 11:50:12 read_API.py[line:16] INFO excel读取数据正确------[{'id': 1.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '{\'city\':"北京"}', '请求类型': 'get', '预期结果': '1000'}, {'id': 2.0, '模块': '查询', 'url': 'http://wthrcdn.etouch.cn/weather_mini', '参数': '', '请求类型': 'get', '预期结果': '1002'}]
+2020-29-29 11:50:12 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get=={'city':"北京"}
+2020-29-29 11:50:12 read_API.py[line:36] INFO http://wthrcdn.etouch.cn/weather_mini==get==
